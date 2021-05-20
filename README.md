@@ -1,6 +1,4 @@
-### Hi there my profile! 👋
-
-Here are some ideas to get you started:
+## Hi there my profile! 👋
 
 ### Contact me
                   
