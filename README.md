@@ -15,4 +15,5 @@
 ### Studies
 
 [![Udemy](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
+[![Medids](https://img.shields.io/badge/medium-%23FF5722.svg?&style=for-the-badge&logo=medium&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
 
