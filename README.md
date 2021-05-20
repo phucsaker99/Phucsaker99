@@ -11,7 +11,7 @@
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
 [![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://console.firebase.google.com/)
 
 ### Studies
 
