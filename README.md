@@ -15,7 +15,7 @@
 ### Studies
 
 [![Udemy](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
-[![Android](https://developer.android.com/)
+[![Android](https://img.shields.io/badge/Android-%23FF5722.svg?&style=for-the-badge&logo=Android&logoColor=white&color=3DDC84)](https://developer.android.com/)
 [![Medium](https://img.shields.io/badge/medium-%23FF5722.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://www.udemy.com/user/van-phuc-4/)
 [![Geeksforgeeks](https://img.shields.io/badge/Geeksforgeeks-%23FF5722.svg?&style=for-the-badge&logo=Geeksforgeeks&logoColor=white&color=#0F9D58)](https://auth.geeksforgeeks.org/user/vanphuc6085)
 
