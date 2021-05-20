@@ -11,5 +11,5 @@
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
 [![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
-[![Udemy](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
+[![Udemy](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
 
