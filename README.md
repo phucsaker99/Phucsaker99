@@ -29,6 +29,8 @@
 [Android](https://github.com/android)
 [</br>Flutter](https://github.com/flutter)
 [</br>JetBrains](https://github.com/JetBrains)
+[</br>Coroutine-Kotlin](https://github.com/Kotlin/kotlinx.coroutines)
+[</br>Dart](https://github.com/dart-lang)
 [</br>Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
 [</br>TheAlgorithms](https://github.com/TheAlgorithms)
 [</br>Material Components](https://github.com/material-components)
