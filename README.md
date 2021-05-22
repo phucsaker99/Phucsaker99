@@ -1,8 +1,4 @@
 ## Overview! 
-<p>
-<img width="55%" margin="0, auto" align="top" height="300" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" /> 
-<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
-</p>
 
 ### Contact me
                   
@@ -45,3 +41,10 @@
 [</br>Facebook](https://github.com/facebook)
 [</br>Tiki](https://github.com/tikivn/open-api-docs)
 [</br>Android Roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap?fbclid=IwAR0rZqHMUYLUgVQGa2frqCsuCx3E9YYxY3ADDg3Dq94ZR3fKJsY-XkevAME)
+
+### Github Stats
+
+<p>
+<img width="55%" margin="0, auto" align="top" height="300" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" /> 
+<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+</p>
