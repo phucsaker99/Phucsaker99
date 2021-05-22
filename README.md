@@ -1,5 +1,5 @@
 ## Welcome to my Github! 
-<code>Visitor count</code> <img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
+<code text_align="center" >Visitor count</code> <img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
 
 ### Contact me
                   
