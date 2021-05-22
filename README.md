@@ -34,12 +34,8 @@
 
 ## Hyperlink
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
+<summary>:zap: Most Used Languages</summary>
 <img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
 
 [Android](https://github.com/android)
 [</br>Flutter](https://github.com/flutter)
