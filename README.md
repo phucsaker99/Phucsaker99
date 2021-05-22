@@ -1,8 +1,6 @@
 ## Welcome to my Github! 
-<p align="center">
-<code>Visitor count</code>
-<img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
-</p>
+<code>Visitor count</code> <img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
+
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vanphuc1999/)
