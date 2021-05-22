@@ -48,3 +48,5 @@
 <img width="55%" align="top" height="100%" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true" /> 
   <img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
 </p>
+<code>Visitor count</code>
+<img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
