@@ -45,12 +45,14 @@
 ### Github Stats
 
 <p>
-<p width="55%" align="top" height="100%" float="left">
+<p width="55%" align="top" height="100%">
 <img alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true" /> 
 </br>
 <code>Visitor count</code>
 <img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
 </p>
-<img width="40%" float="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+<p width="40%">
+<img alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+</p>
 </p>
 
