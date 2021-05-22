@@ -1,8 +1,6 @@
 ## Overview! 
 <p align="center">
-<img width="60%"alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" />
-
-<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+<img width="60%"alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" /> <img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
 
 </p>
 
