@@ -1,8 +1,7 @@
 ## Overview! 
-<summary>:zap: GitHub Stats</summary>
+
 <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" />
 
-<summary>:zap: Most Used Languages</summary>
 <img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
 </br>
 </br>
