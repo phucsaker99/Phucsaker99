@@ -33,6 +33,14 @@
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
 
 ## Hyperlink
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+
+</details>
+
 [Android](https://github.com/android)
 [</br>Flutter](https://github.com/flutter)
 [</br>JetBrains](https://github.com/JetBrains)
