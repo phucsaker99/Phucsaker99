@@ -1,6 +1,7 @@
 ## Welcome to my Github! 
 
-Views/day  <img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
+Views/day  
+<img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
 
 ### Contact me
                   
