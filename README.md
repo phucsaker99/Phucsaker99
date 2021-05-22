@@ -44,7 +44,7 @@
 
 ### Github Stats
 
-<p>
+<p width="100%">
 <p width="55%" align="top" height="100%">
 <img alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true" /> 
 </br>
