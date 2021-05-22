@@ -1,9 +1,9 @@
 ## Overview! 
 
-<img align="left" width="60%" float="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" />
+<div><img align="left" width="60%" float="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true&hide_border=true" />
 
 <img align="right" width="40%" float="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
-
+</div>
 [</br></br></br>]
 
 ### Contact me
