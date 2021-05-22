@@ -33,9 +33,6 @@
 
 ## Hyperlink
 
-<summary>:zap: Most Used Languages</summary>
-<img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
 [Android](https://github.com/android)
 [</br>Flutter](https://github.com/flutter)
 [</br>JetBrains](https://github.com/JetBrains)
