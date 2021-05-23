@@ -30,7 +30,7 @@
 
 ### Solution
 
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FF5722.svg?color=#ffffff&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badgecolor=#ffffff&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
 
 ## Hyperlink
 
