@@ -30,7 +30,7 @@
 
 ### Solution
 
-[Group for coding study](https://www.facebook.com/groups/350321432670122)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=#F58025)](https://developer.android.com/)
 
 ## Hyperlink
 
