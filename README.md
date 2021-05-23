@@ -15,7 +15,7 @@
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
 [![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=#FFCA28)](https://console.firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://console.firebase.google.com/)
 
 ### Group $ Fanpage
 
@@ -30,7 +30,7 @@
 
 ### Solution
 
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&color=#F58025&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&color=F58025&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
 
 ## Hyperlink
 
