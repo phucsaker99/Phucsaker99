@@ -19,6 +19,10 @@
 
 ### Studies
 
+[![Block](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
+
+### Studies
+
 [![Udemy](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
 [![Android](https://img.shields.io/badge/Android-%23FF5722.svg?&style=for-the-badge&logo=Android&logoColor=white&color=3DDC84)](https://developer.android.com/)
 [![Medium](https://img.shields.io/badge/medium-%23FF5722.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://www.udemy.com/user/van-phuc-4/)
@@ -26,7 +30,7 @@
 
 ### Solution
 
-[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14760449/ph%c3%bac-nguy%e1%bb%85n-v%c4%83n)
+[Group for coding study](https://www.facebook.com/groups/350321432670122)
 
 ## Hyperlink
 
