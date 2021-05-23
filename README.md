@@ -17,9 +17,9 @@
 [![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://console.firebase.google.com/)
 
-### Studies
+### Group $ Fanpage
 
-[![Block](https://img.shields.io/badge/udemy-%23FF5722.svg?&style=for-the-badge&logo=udemy&logoColor=white&color=red)](https://www.udemy.com/user/van-phuc-4/)
+[Group for coding study](https://www.facebook.com/groups/350321432670122)
 
 ### Studies
 
