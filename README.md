@@ -9,8 +9,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C3%BAc-v%C4%83n-8679a915b/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phuc6085)
 
-[</br><img src="https://cdn.viblo.asia/_nuxt/img/fbfe575.svg" alt="Viblo" width="325" height="64">](https://viblo.asia/u/phucsaker99)
-
 ### Skills
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
